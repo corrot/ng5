@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {trigger, style, transition, animate, keyframes, query, stagger} from '@angular/animations';
-import { Transform } from 'stream';
+// import { Transform } from '@angular/stream';
 import { DataService } from '../data.service';
 
 @Component({
